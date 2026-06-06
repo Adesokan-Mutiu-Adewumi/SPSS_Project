@@ -17,5 +17,8 @@ The study highlights that adolescents raised under supportive, communicative (au
 ##  Role
 Biostatistician/Data Scientist
 
-##  Tools
+##  Software
 SPSS, Microsoft Excel and Word
+
+##  Statistical Tool
+**Frequency Table, Charts, Mean and Standard Deviation, Independent t-Test, and ANOVA**
