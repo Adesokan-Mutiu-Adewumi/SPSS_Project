@@ -19,9 +19,12 @@ For awareness and customer satisfaction, participants' responses were scored. Th
 ### Method of Analysis
 Frequency table and charts were used to present the results, while Chi-Square was used to find the variable associated with the awareness and customer satisfaction, at 5% significant level. A p-value less than or equal to 0.05 was considered significant.
 
-## Tool Used
+## Software 
 SPSS and 
 Excel
+
+## Statistical Tool
+**Frequency Table, Charts and Chi-Square**
 
 ## Results
 The level of awareness of market demand for geriatric care services.
